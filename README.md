@@ -1,2 +1,2 @@
 # delta-demo
-this is for info pur repo
+this is for info pur repo.
